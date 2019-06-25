@@ -1,1 +1,5 @@
-111
+spring:
+  redis:
+    jedis:
+      pool:
+        min-idle: 8
