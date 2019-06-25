@@ -2,4 +2,4 @@ spring:
   redis:
     jedis:
       pool:
-        min-idle: 8
+        min-idle: 7
